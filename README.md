@@ -3,7 +3,7 @@
 
 
 ## Application-Properties-
- -name-sorter is a Console Application designed using C# language targetted framework .NET  Core 2.2.
+ -name-sorter is a Console Application designed using C# language targeted framework .NET  Core 2.2.
 
 ## Projects-
  - name-sorter includes three projects:
@@ -35,6 +35,7 @@
 ## Build - 
 
 
- - 
+
+ - 
 
 Built pipeline using AppVeyor that execute build and test steps
